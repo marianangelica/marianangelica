@@ -3,6 +3,9 @@
 
 #### Focused on decision-making based on information analysis to propose and implement IT solutions aligned to the needs of customers and the organization. I assume with responsibility, discipline, and enthusiasm the goals proposed within the work team and the organization. I am willing to learn and adapt to both technological and work environments, as well as to solve problems efficiently.
 
+#### Projects
+
+#### Current job
 
 | MAIN PROJECTS                            	| KEY ACTIVITIES                                                                                                                                                                                                                                                                                                                    	|
 |------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -13,6 +16,7 @@
 | Automation processes and Airflow upgrade 	| •  Defining   the needs and scope of the implementation of the dags to automate processes.<br>•  Supporting and solving some issues previous to the   airflow upgrade from 1.x to 2.2 version.                                                                                                                                    	|
 
 
+#### Previous job
 
 |     MAIN   PROJECTS                                                                                    	|     KEY   ACTIVITIES                                                                                                                                                                                                                                                                                                                                                                                                        	|
 |--------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
