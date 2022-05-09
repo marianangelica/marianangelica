@@ -1,9 +1,13 @@
+# Marian Pachón 
+##### https://www.linkedin.com/in/marianpachon/
 
 #### Passionate about new technologies and continuous learning. Recently, I finished a Master in Artificial Intelligence. Interested in learning and taking advantage of the data through different data processes and best practices. Systems engineer with experience in leadership and participation in IT projects in the financial sector. Committed to assertive communication and the well-being of work teams, as a basis for positive results for the organization.
 
 #### Focused on decision-making based on information analysis to propose and implement IT solutions aligned to the needs of customers and the organization. I assume with responsibility, discipline, and enthusiasm the goals proposed within the work team and the organization. I am willing to learn and adapt to both technological and work environments, as well as to solve problems efficiently.
 
-#### Projects
+<br>
+
+## Projects
 
 #### Current job
 
@@ -29,5 +33,9 @@
 |     Monetary   Transactions - Realtime Integration                                                     	|     • Generating   documentation about functional and technical fields for the integration.     <br>• Definition of requirements and   validations with the development teams.     <br>• Tracking of the requirements (Dev   to Prod) and testing of them.                                                                                                                                                                             	|
 |     Redesigned   and implementation for transactional business flows for the new corporate   portal    	|     • Creating the documentation about   the legacy system.     <br>• Eliciting requirements:   Participation in meetings for definitions about the adaptation for new   services.     <br>• Eliciting Business rules   definitions for different financial functionalities.                                                                                                                                                           	|
 
+ 
+ <br>
 
 ![My leadership](https://github.com/marianangelica/marianangelica/blob/main/myleadership.png)
+
+#### Bogotá, Distrito Capital, Colombia
